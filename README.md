@@ -8,13 +8,13 @@ The Microsoft Cognitive Toolkit (https://cntk.ai) is a unified deep learning too
 
 ## Installation
 
-* [Setup CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/Setup-CNTK-on-your-machine)
-    * Windows ([Python-only](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-windows-python) / [Script-driven](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-windows-binary-script) / [Manual](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-windows-binary-manual))
-    * Linux ([Python-only](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-linux-python) / [Script-driven](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-linux-binary-script) / [Manual](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-linux-binary-manual) / [Docker](https://docs.microsoft.com/en-us/cognitive-toolkit/cntk-docker-containers))
-* [CNTK backend for Keras](https://docs.microsoft.com/en-us/cognitive-toolkit/using-cntk-with-keras)
-* [Setup CNTK development environment](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-development-environment)
-    * Windows ([Script-driven](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-cntk-with-script-on-windows) / [Manual](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-cntk-on-windows))
-    * Linux ([Manual](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-cntk-on-linux))
+* [Setup CNTK](https://docs.microsoft.com/cognitive-toolkit/Setup-CNTK-on-your-machine?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
+    * Windows ([Python-only](https://docs.microsoft.com/cognitive-toolkit/setup-windows-python?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl) / [Script-driven](https://docs.microsoft.com/cognitive-toolkit/setup-windows-binary-script?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl) / [Manual](https://docs.microsoft.com/cognitive-toolkit/setup-windows-binary-manual?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl))
+    * Linux ([Python-only](https://docs.microsoft.com/cognitive-toolkit/setup-linux-python?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl) / [Script-driven](https://docs.microsoft.com/cognitive-toolkit/setup-linux-binary-script?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl) / [Manual](https://docs.microsoft.com/cognitive-toolkit/setup-linux-binary-manual?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl) / [Docker](https://docs.microsoft.com/cognitive-toolkit/cntk-docker-containers?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl))
+* [CNTK backend for Keras](https://docs.microsoft.com/cognitive-toolkit/using-cntk-with-keras?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
+* [Setup CNTK development environment](https://docs.microsoft.com/cognitive-toolkit/setup-development-environment?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
+    * Windows ([Script-driven](https://docs.microsoft.com/cognitive-toolkit/setup-cntk-with-script-on-windows?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl) / [Manual](https://docs.microsoft.com/cognitive-toolkit/setup-cntk-on-windows?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl))
+    * Linux ([Manual](https://docs.microsoft.com/cognitive-toolkit/setup-cntk-on-linux?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl))
     
 ### Installing nightly packages
 
@@ -27,22 +27,22 @@ If you prefer to use latest CNTK bits from master, use one of the CNTK nightly p
 
 You can learn more about using and contributing to CNTK with the following resources:
 
-* [General documentation](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+* [General documentation](https://docs.microsoft.com/cognitive-toolkit?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
 * [Python API documentation](https://cntk.ai/pythondocs/)
-* [Evaluation documentation (C++, C#/.NET, Python, Java)](https://docs.microsoft.com/en-us/cognitive-toolkit/CNTK-Evaluation-Overview)
+* [Evaluation documentation (C++, C#/.NET, Python, Java)](https://docs.microsoft.com/cognitive-toolkit/CNTK-Evaluation-Overview?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
 * [Manual](https://github.com/Microsoft/CNTK/tree/master/Manual)
-* [Tutorials](https://docs.microsoft.com/en-us/cognitive-toolkit/tutorials)
-* [Examples](https://docs.microsoft.com/en-us/cognitive-toolkit/Examples)
+* [Tutorials](https://docs.microsoft.com/cognitive-toolkit/tutorials?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
+* [Examples](https://docs.microsoft.com/cognitive-toolkit/Examples?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
 * [Pretrained models](./PretrainedModels)
-* [Blog](https://www.microsoft.com/en-us/cognitive-toolkit/blog/)
-* [Presentations](https://docs.microsoft.com/en-us/cognitive-toolkit/Presentations)
+* [Blog](https://www.microsoft.com/cognitive-toolkit/blog/)
+* [Presentations](https://docs.microsoft.com/cognitive-toolkit/Presentations?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
 * [License](./LICENSE.md)
 
 ## More information
 
-* [Contribute to CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/Contributing-to-CNTK)
-* [FAQ](https://docs.microsoft.com/en-us/cognitive-toolkit/CNTK-FAQ)
-* [Feedback](https://docs.microsoft.com/en-us/cognitive-toolkit/Feedback-Channels)
+* [Contribute to CNTK](https://docs.microsoft.com/cognitive-toolkit/Contributing-to-CNTK?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
+* [FAQ](https://docs.microsoft.com/cognitive-toolkit/CNTK-FAQ?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
+* [Feedback](https://docs.microsoft.com/cognitive-toolkit/Feedback-Channels?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
 
 ## Disclaimer
 
@@ -70,7 +70,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 ## News
 
-> You can find more news on [the official project feed](https://docs.microsoft.com/en-us/cognitive-toolkit/news)
+> You can find more news on [the official project feed](https://docs.microsoft.com/cognitive-toolkit/news?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl)
 
 ***2019-03-29.*** CNTK 2.7.0
 ## Highlights of this release
@@ -380,5 +380,5 @@ Operators
 Halide Binary Convolution
 - The CNTK build can now use optional [Halide](http://halide-lang.org/) libraries to build `Cntk.BinaryConvolution.so/dll` library that can be used with the `netopt` module. The library contains optimized binary convolution operators that perform better than the python based binarized convolution operators. To enable Halide in the build, please download [Halide release](https://github.com/halide/Halide/releases) and set `HALIDE_PATH` environment varibale before starting a build. In Linux, you can use `./configure --with-halide[=directory]` to enable it. For more information on how to use this feature, please refer to [How_to_use_network_optimization](https://github.com/Microsoft/CNTK/blob/master/Manual/Manual_How_to_use_network_optimizations.ipynb).
 
-See more in the [Release Notes](https://docs.microsoft.com/en-us/cognitive-toolkit/ReleaseNotes/CNTK_2_4_Release_Notes).
+See more in the [Release Notes](https://docs.microsoft.com/cognitive-toolkit/ReleaseNotes/CNTK_2_4_Release_Notes?wt.mc_id=cntkgithub_cntkgithub_webpage_cnl).
 Get the Release from the [CNTK Releases page](https://github.com/Microsoft/CNTK/releases).
